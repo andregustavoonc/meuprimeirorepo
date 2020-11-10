@@ -3,3 +3,4 @@ Trabalhando com Git -- Versão 02
 Nova linha incluída
 Mais outra linha
 Preciso incluir uma nova linha
+Incluindo linha no GitHub
