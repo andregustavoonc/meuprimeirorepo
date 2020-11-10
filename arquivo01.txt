@@ -4,3 +4,4 @@ Nova linha incluída
 Mais outra linha
 Preciso incluir uma nova linha
 Incluindo linha no GitHub
+Incluindo linha na branch funcionalidade
